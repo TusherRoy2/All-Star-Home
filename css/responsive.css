@@ -1,0 +1,562 @@
+@media (max-width:1199px){
+    nav .menu ul li a {
+        font-size: 2rem;
+    }
+    /* HEADER-END */
+
+    .hero-area form {
+        width: 90%;
+    }
+    .hero-area h1 {
+        font-size: 5rem;
+        width: 95%;
+        margin: auto;
+    }
+    .hero-area p {
+        font-size: 2.2rem;
+    }
+    /* HERO-AREA END */
+
+    .bhImg {
+        width: 49rem;
+        margin: 2rem auto 0;
+    }
+    /* BYE-HOME-END */
+
+    .chImg {
+        width: 48rem;
+        margin: 2rem auto 0;
+    }
+    .chImg img{
+        height:27rem;
+    }
+    /* CASH-HOME-END */
+
+    .whGrid{
+        width: 31rem;
+    }
+    .whGrid img {
+        width: 31rem;
+        height: 22rem;
+        margin: 2rem auto 0;
+    }
+    /* WHY-BYING-GRID-END */
+
+    .hsItem {
+        width: 30.5rem;
+        height: 30.5rem;
+        margin: auto;
+        padding: 2.5rem;
+    }
+    /* HOME-SOLUTION-END */
+
+    .wbForm form {
+        width: 100%;
+    }
+    /* WHY-BYEING-END */
+
+    .cfhImg img {
+        width: 35.6rem;
+        height: 35.6rem;
+        top:4rem;
+    }
+    .cfhText h4 {
+        font-size: 3.5rem;
+    }
+    .cfhText p {
+        font-size: 2rem;
+        margin-bottom: 7rem;
+    }
+    /* CASH-FOR-HOME-END */
+
+    .shItem {
+        height: 49.2rem;
+    }
+    /* SELL-MY-HOUSE-END */
+    .wbItem .topItem h4 {
+        font-size: 2.5rem;
+    }
+    .wbItem .bottomItem ul li,
+    .wbItem .bottomItem ul li a {
+        font-size: 1.8rem;
+    }
+    /* WHY-BYE-END */
+
+    .customerReview p {
+        font-size: 2rem;
+        width: 90%;
+        margin: 1rem auto;
+    }
+    .owl-carousel .owl-nav .owl-next span {
+        top: 25%;
+        right: -2rem;
+    }
+    .owl-carousel .owl-nav .owl-prev span {
+        top: 25%;
+        left: -2rem;
+    }
+    /* Customar-Review-END */
+
+    .fwbForm form {
+        width: 90%;
+    }
+    /* FOOTER-WHY-BYE-END */
+
+    footer p {
+        font-size: 1.5rem;
+    }
+    footer h4 {
+        font-size: 2.2rem;
+    }
+    footer .fText span {
+        font-size: 1.8rem;
+    }
+    .fNew {
+        margin: 3rem 0 2rem;
+    }
+      
+}
+
+@media (max-width:991px){
+    html {
+        font-size: 57.5%;
+    }
+    body{
+        position: relative;
+    }
+    nav .SMHome {
+        top: 4rem;
+        right: 4rem;
+        border-radius: .5rem;
+    }
+    nav .menu{
+        background: #51a9db;
+        width:22rem;
+        height:100vh;
+        position: absolute;
+        top:3.5rem;
+        right:0;
+        margin-top: 0;
+        z-index: 1;
+        display: none;
+    }
+    nav .menu ul {
+        display: block;
+        margin: 9rem 5rem 0 1.6rem;
+        padding: 0;
+    }
+    nav .menu ul li{
+        margin-bottom: 2rem;
+    }
+    nav .menu ul li a {
+        font-size: 2rem;
+    }
+    nav .SMHome a {
+        font-size: 1.7rem;
+        margin-right: .7rem;
+    }
+    nav .SMHome i {
+        font-size: 1.5rem;
+    }
+    .menu-icon{
+        display: flex;
+        justify-content: end;
+        margin-top: 6rem;
+    }
+    .menu-icon .fa-bars{
+        font-size: 2rem;
+        color:#0a334b;
+    }
+    .menu-icon .fa-times {
+        display: none;
+        position: absolute;
+        z-index: 11;
+        font-size: 1.5rem;
+        top: 3rem;
+        right: 2rem;
+    }
+    .menu-icon .fa-times:hover{
+        color:#0b385296
+    }
+    /* HEADER-END */
+
+    .hero-area p {
+        font-size: 2.2rem;
+        margin-bottom: 4rem;
+        width: 95%;
+        margin: 0 auto 4rem;
+    }
+    /* HERO_-AREA */
+
+    .bhImg {
+        width: 60rem;
+        margin: 2rem auto 0;
+    }
+    .bhImg img {
+        width: 100%;
+        height: 30.6rem;
+        margin: 0 auto 5rem;
+    }
+    .byeHome h2 {
+        font-size: 4.6rem;
+    }
+    .byeHome h4 {
+        font-size: 2.6rem;
+    }
+    /* BYE-HOME END */
+
+    .customerReview p {
+        font-size: 2rem;
+    }
+    /* CUSTOMER-REVIEW-END */
+
+    .chImg {
+        width: 55rem;
+    }
+    .chImg img{
+        height: 30rem;
+    }
+    /* CASH-HOME-END */
+
+    .whGrid img {
+        width: 36rem;
+        height: 23rem;
+        margin: 2rem auto 0;
+    }
+    /* WHY-BYING-GRID-END */
+
+    .hsItem {
+        width: 33.5rem;
+        height: 33.5rem;
+        margin: 0 auto 5rem;
+        padding: 2.5rem;
+    }
+    .homeSolution h3 {
+        font-size: 4.2rem;
+    }
+    .homeSolution p {
+        font-size: 2rem;
+    }
+    /* HOME-SOLUTION-END */
+
+    .wbForm form {
+        width: 75%;
+    }
+    /* WHY-BYING-HOME */
+
+    .cfhImg{
+        width: 35.6rem;
+        height: 35.6rem;
+        margin: 0 auto 5rem;
+    }
+    /* CASH-FOR-HOME-END */
+
+    .shItem {
+        height: 40rem;
+        width: 40rem;
+        margin: 0 auto 1rem;
+    }
+    /* SELL-MY-HOUSE-END */
+
+    .whyByeMap {
+        width: 95%;
+        margin: auto;
+    }
+    .whyByeMap h3 {
+        font-size: 4.2rem;
+    }
+    .whyByeMap p {
+        font-size: 2rem;
+    }
+    .wbItem {
+        width: 33rem;
+        height: auto;
+        margin: 0 auto 2rem;
+    }
+    /* WHY-BYEING-MAP-END */
+
+    .faqItem .faq-Q h4 {
+        font-size: 2.7rem;
+    }
+    /* FAQ-END */
+
+    .fwbForm form {
+        width: 55%;
+    }
+    .footerWhyBye h4 {
+        font-size: 4.3rem;
+    }
+    .bottomLine p {
+        font-size: 2.6rem;
+    }
+
+}
+
+@media (max-width:768px){
+    html {
+        font-size: 51.5%;
+    }
+    header .topRight i {
+        font-size: 1.5rem;
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+    /* HEADER-END */
+
+    .byeHome h2 {
+        font-size: 4.2rem;
+    }
+    .byeHome h4 {
+        font-size: 2.4rem;
+    }
+    /* BYE-HOME-END */
+
+    .owl-carousel .owl-nav .owl-next span {
+        top: 25%;
+        right: -4rem;
+    }
+    .owl-carousel .owl-nav .owl-prev span {
+        top: 25%;
+        left: -4rem;
+    }
+    /* Customar-Review-END */
+
+    .fwbText p {
+        font-size: 1.8rem;
+    }
+    .fwbForm form {
+        width: 70%;
+    }
+    .footerWhyBye h4 {
+        font-size: 4.1rem;
+    }
+    
+}
+
+@media (max-width:680px){
+    html {
+        font-size: 47.5%;
+    }
+    .hero-area h1 {
+        padding: 7rem 0 5rem;
+    }
+    .hero-area form .tagStar {
+        position: absolute;
+        top: -46px;
+        right: -46px;
+    }
+    /* HERO-AREA-END */
+
+    .G-Customer img {
+        width: 5rem;
+        height: 5rem;   
+    }
+    .G-Customer h5 {
+        font-size: 2.5rem;
+    }
+    /* G-CUSTOMER-END */
+
+    .wbForm form {
+        width: 80%;
+    }
+    /* WHY-BYE-END */
+
+    .bottomLine p {
+        font-size: 2.2rem;
+    }
+}
+
+@media (max-width:580px){
+    html {
+        font-size: 45.5%;
+    }
+    .hero-area form {
+        width: 80%;
+    }
+    /* HERO-AREA-END */
+
+    .hero-area h1 {
+        font-size: 4.4rem;
+    }
+    /* HERO-AREA-END */
+
+    .G-5-Star img {
+        width: 90%;
+        height: auto;
+        display: block;
+    }
+    .owl-carousel, .owl-carousel.owl-loaded {
+        display: block;
+        width: 90%;
+        margin: auto;
+    }
+    .customerReview p {
+        font-size: 1.7rem;
+    }
+    .owl-carousel .owl-nav {
+        display: none;
+    }
+    /* CUSTOMER-REVIEW-END */
+
+    .cash-home {
+        margin: 0 auto 10rem;
+        width: 90%;
+    }
+    /* CASH-HOME-END */
+
+    .homeSolution {
+        width: 95%;
+        margin: auto;
+    }
+    /* HOME-SOLUTION-END */
+
+    .wbNew{
+        width:95%;
+        margin: auto;
+    }
+    /* WHY-BYING-HOME-END */
+
+    .cfhText{
+        width: 95%;
+        margin: 3rem auto 0;
+    }
+    /* CASH-FOR-HOME-END */
+
+    .faq h3 {
+        font-size: 4.2rem;
+    }
+    .faqItem .faq-Q h4 {
+        font-size: 2.5rem;
+    }
+    /* FAQ-END */
+
+    .footerWhyBye {
+        width: 100%;
+        height: 110vh;
+    }
+    .footerWhyBye h4 {
+        width: 95%;
+        margin: auto;
+    }
+    .fwbText p {
+        width: 95%;
+        margin: auto;
+    }
+    /* FOOTER-WHY-BYE-END */
+
+    footer .logo {
+        margin: 0 auto 2rem;
+    }
+    footer p {
+        width: 95%;
+        margin: auto;
+        text-align: center;
+    }
+    .fNew {
+        width: 95%;
+        margin: 3rem auto 2rem;
+        text-align: center;
+    }
+    footer .icon {
+        display: flex;
+        margin-top: 2rem;
+        justify-content: center;
+    }
+}
+
+@media (max-width:480px){
+    html {
+        font-size: 40.5%;
+    }
+    header .topLeft {
+        display: none;
+    }
+    header .topRight {
+        display: flex;
+        padding: 1rem 36%;
+    }
+    /* HEADER-END */
+
+    .hero-area h1 {
+        font-size: 3.8rem;
+    }
+    /* HERO-AREA-END */
+
+    .byeHome h2 {
+        font-size: 3.8rem;
+    }
+    .bhImg {
+        width: 95%;
+        margin: 2rem auto 0;
+    }
+    .bhImg img {
+        height: auto;
+    }
+    /* BYE-HOME END */
+
+    .customerReview p {
+        font-size: 1.5rem;
+    }
+    /* CUSTOMER-REVIEW-END */
+
+    .chImg {
+        width: 90%;
+    }
+    .chImg img {
+        height: auto;
+    }
+    /* CASH-HOME-END */
+
+    .weBye h4 {
+        font-size: 4.2rem;
+    }
+    /* WE-BYE-END */
+
+    .sellHouse h3 {
+        font-size: 4.2rem;
+        width: 95%;
+        margin: auto;
+    }
+    /* SELL-HOUSE-END */
+
+    .faqItem .faq-Q h4 {
+        font-size: 2.3rem;
+    }
+    /* FAQ-END */
+
+    .footerWhyBye h4 {
+        width: 95%;
+        margin: auto;
+        font-size: 3.5rem;
+    }      
+    .fwbForm form {
+        width: 90%;
+    }
+    .bottomLine p {
+        font-size: 1.9rem;
+    }
+}
+
+@media (max-width:380px){
+    .customerReview p {
+        font-size: 1.4rem;
+    }
+    /* CUSTOMER-REVIEW-END */
+
+    .wbForm form {
+        width: 100%;
+    }
+    /* WHY-BYEING-FORM-END */
+
+    .whyByeMap h3 {
+        font-size: 4rem;
+    }
+    .whyByeMap p {
+        font-size: 1.8rem;
+    }
+    /* WHY-BYE-MAP-END */
+
+    .fwbText p {
+        font-size: 1.8rem;
+    }
+}
